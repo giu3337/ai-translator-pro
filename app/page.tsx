@@ -10,7 +10,7 @@ export default function Home() {
              AI Translator <span className="bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent">Pro</span>
           </h1>
           <p className="text-lg text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto font-medium leading-relaxed">
-            Traducción inteligente con contexto cultural, sensibilidad tonal y desgloses gramaticales potenciados por inteligencia artificial.
+            Tu compañero personal para dominar idiomas. Traduce expresiones del mundo real, descubre modismos locales y practica conversando sin miedo a equivocarte.
           </p>
         </div>
         

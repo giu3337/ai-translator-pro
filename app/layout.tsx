@@ -19,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es" className={`${inter.variable} h-full antialiased`}>
+    <html lang="es" translate="no" className={`${inter.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col font-sans transition-colors duration-500">
         {children}
       </body>
